@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="735" height="413" alt="3ecb53aa4267a6f0e37d83e1f53c60e7" src="https://github.com/user-attachments/assets/c65b68cf-c062-4e08-b6d7-2cdb2f1be023" />
+
 
 <!--
 **HimuraCSS/HimuraCSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
