@@ -111,17 +111,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 40" width="280" height="40">
-        <defs>
-          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#FF1001" stop-opacity="1" />
-            <stop offset="100%" stop-color="#e0fbfc" stop-opacity="1" />
-          </linearGradient>
-        </defs>
-        <text x="0" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18px" font-weight="800" fill="url(#grad)" letter-spacing="0.5px">
-          RED &amp; DARK // MY STACKS
-        </text>
-      </svg>
+      <img src="https://raw.githubusercontent.com/HimuraCSS/HimuraCSS/main/title.svg" alt="Red & Dark // My Stacks" />
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
