@@ -25,6 +25,7 @@
         src="https://custom-icon-badges.herokuapp.com/github/followers/HimuraCSS?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
+<img width="32" height="32" alt="tenor" src="https://github.com/user-attachments/assets/92585143-aedd-446d-bc48-ffe2f9d1ecab" />
 
 </br>
 
