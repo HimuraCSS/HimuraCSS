@@ -1,6 +1,6 @@
 
 <a href="https://github.com/HimuraCSS">
-  <img width="1024" height="1024" alt="Gemini_Generated_Image_eznmgbeznmgbeznm" src="https://github.com/user-attachments/assets/f28f264e-2408-4c4a-a895-58561bc318d3" width="100%" alt="HimuraCSS Banner"/>
+  <img width="3000" height="1000" alt="2 Sem Título_20260522002947" src="https://github.com/user-attachments/assets/b41cc935-b80c-4f32-ab40-9cfbc1569479" width="100%" alt="HimuraCSS Banner"/>
 </a>
 
 <div align="center">
