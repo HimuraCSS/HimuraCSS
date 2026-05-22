@@ -5,23 +5,23 @@
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/HimuraCSS">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HimuraCSS" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/HimuraCSS">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+        src="https://custom-icon-badges.demolab.com/github/forks/HimuraCSS/HimuraCSS?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
   </a>
-  <a href="https://github.com/Glauedson?tab=followers">
+  <a href="https://github.com/HimuraCSS?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/HimuraCSS?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 
@@ -53,7 +53,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   </br>
 
   <!-- Pinterest -->
-  <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
+  <a href="https://br.pinterest.com/kyriuu_/" target="_blank">
     <img width="130px" 
           src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
           alt="Pinterest"
@@ -73,9 +73,15 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
           alt="E-mail"
           title="My E-mail"/>
   </a>
-
+  
+<br>
 </div>
-</br>
+
+<div align="center">
+  <p align="center">
+  <img src="https://github.com/HimuraCSS/HimuraCSS/blob/main/darksnake.svg" width="100%">
+</p>
+</div>
 
 
 <img src="./assets/icons/knife.png" width=106px align="right">
