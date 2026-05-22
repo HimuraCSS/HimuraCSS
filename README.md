@@ -111,7 +111,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
+      <img src="https://raw.githubusercontent.com/HimuraCSS/HimuraCSS/main/assets/images/Stack.svg" alt="Stack">
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
