@@ -4,6 +4,7 @@
 </a>
 
 <div align="center">
+<img width="32" height="32" alt="Flayonbusy-ezgif com-ani-to-gif-converter" src="https://github.com/user-attachments/assets/96a46b0c-9367-4e34-9621-2cf357e443da" />
 
   <a href="https://api.github-star-counter.workers.dev/user/HimuraCSS">
     <img width="120px" 
