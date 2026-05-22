@@ -87,7 +87,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 </div>
 
 
-<img src="./assets/icons/knife.png" width=106px align="right">
+
 
 > [!Caution]
 >
@@ -99,7 +99,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 <!-- My contributions title -->
 <div align="center">
-<img src="./assets/images/Contributions.svg" width="50%">
+
 </br>
 </br>
 </div>
