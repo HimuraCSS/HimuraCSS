@@ -122,7 +122,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
     <!---->
     <td valign="top" width="55%">
       <a href="https://github.com/HimuraCSS/Akira_Go">
-  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=HimuraCSS&repo=Akira_Go&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=ffffff&hide_border=true&description_lines_count=4&icon_color=ffffff&cache_seconds=86400" alt="Repositório Akira Go" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HimuraCSS&repo=Akira_Go&bg_color=FF1001&title_color=e0fbfc&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=3" alt="Repositório Akira Go" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
