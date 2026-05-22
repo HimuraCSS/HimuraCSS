@@ -22,9 +22,9 @@
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/HimuraCSS?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff">   
+        src="https://custom-icon-badges.herokuapp.com/github/followers/HimuraCSS?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"> 
+    </a>
 <img width="32" height="32" alt="Flayonbusy-ezgif com-ani-to-gif-converter" src="https://github.com/user-attachments/assets/96a46b0c-9367-4e34-9621-2cf357e443da" />
-  </a>
 
 </div>
 
