@@ -3,11 +3,6 @@
   <img width="1024" height="1024" alt="Gemini_Generated_Image_eznmgbeznmgbeznm" src="https://github.com/user-attachments/assets/f28f264e-2408-4c4a-a895-58561bc318d3" width="100%" alt="HimuraCSS Banner"/>
 </a>
 
-
-  
-  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
-</a>
-
 <div align="center">
 
   <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
