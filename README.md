@@ -111,7 +111,17 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgNDAiIHdpZHRoPSIyODAiIGhlaWdodD0iNDAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNGRjEwMDEiIHN0b3Atb3BhY2l0eT0iMSI />CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2UwZmJmYyIgc3RvcC1vcGFjaXR5PSIxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHRleHQgeD0iMTAiIHk9IjI2IiBmYW1pbHktZmFtaWx5PSItYXBwbGUtc3lzdGVtLCBCbGlua01hY2FTeXN0ZW0sICdTZWdvZSBVSScsIFJvYm90bywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOHB4IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSJ1cmwoI2dyYWQpIiBsZXR0ZXItc3BhY2luZz0iMC41cHgiPgogICAgUkVEICYhbXA7IERBUksgLy8gTVkgU1RBQ0tTCiAgPC90ZXh0Pgo8L3N2Zz4=" alt="Red & Dark // My Stacks" width="280" />
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 40" width="280" height="40">
+        <defs>
+          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#FF1001" stop-opacity="1" />
+            <stop offset="100%" stop-color="#e0fbfc" stop-opacity="1" />
+          </linearGradient>
+        </defs>
+        <text x="0" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18px" font-weight="800" fill="url(#grad)" letter-spacing="0.5px">
+          RED &amp; DARK // MY STACKS
+        </text>
+      </svg>
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
@@ -122,8 +132,8 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
     <!---->
     <td valign="top" width="55%">
       <a href="https://github.com/HimuraCSS/Akira_Go">
-  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=HimuraCSS&repo=Akira_Go&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=ffffff&hide_border=true&description_lines_count=4&icon_color=ffffff&cache_seconds=86400" alt="Repositório Akira Go" />
-</a>
+        <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=HimuraCSS&repo=Akira_Go&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=ffffff&hide_border=true&description_lines_count=4&icon_color=ffffff&cache_seconds=86400" alt="Repositório Akira Go" />
+      </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
