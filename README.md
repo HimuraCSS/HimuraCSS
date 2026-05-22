@@ -1,11 +1,3 @@
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
-    and I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/Glauedson
--->
 
 <!-- Banner  -->
 <a href="https://github.com/Glauedson">
