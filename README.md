@@ -82,7 +82,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/HimuraCSS/HimuraCSS/blob/main/darksnake.svg" width="100%">
+  
 </p>
 </div>
 
